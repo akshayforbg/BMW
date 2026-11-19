@@ -1,0 +1,8 @@
+{
+  "name": "Biomedical Waste Management Training",
+  "description": "Clinical training, interactive Schedule I segregation simulator, and certification platform for Indian Biomedical Waste Management protocols, developed by Dr. Akshaya N Shetti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
